@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700?display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@600&display=swap');
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+table,tr,td{
+	border: 1px solid;
+	border-collapse: collapse;
+}
+tr{
+	max-width: 50%;
+}
+
+.myRow{
+	max-width: 100%;
+}
+.myCol{
+	margin-left: -20px;
+}
+.myCol1{
+	margin-left: -15px;
+}
+.forWidth{
+	margin-left: 0px;
+	width: 575px;
+	height: 40px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 6px;
+	padding-bottom: 6px;
+	background-color: #1a1a1a;
+	border-color: #1a1a1a;
+	border-radius: 0.25rem;
+	color: #495057;
+	font-weight: 400;
+	font-family: 'Poppins', sans-serif;
+}
+.forWidth:focus{
+	background-color: white;
+}
+.FullWidth{
+	width: 60%;
+	margin-left: 5px;
+	margin-top: 0px;
+	margin-bottom: 15px;
+}
+.forbg{
+	background-color: black;
+	border-color: black;
+}
+.myTable{
+	background-color: black;
+	height: 745px;
+  	background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: cover;;
+}
+.headbookcar{
+	font-size: 35px;
+	font-family: 'Montserrat Alternates', sans-serif;
+	font-weight: 400;
+	color: white;
+	margin-top: 5px;
+}
+.textc{
+	color: #f7b926;
+	font-family: 'Poppins', sans-serif;
+	font-weight: 400;
+	font-size: 18px;
+}
+.underline{
+	color: #f7b926;
+	margin-top: -24px;
+	font-weight: 500;
+}
+.btnsubmit{
+	margin-left: 224px;
+}
+.btnsubmit1{
+	margin-left: 25px;
+}
+
+.texta{
+	font-family: 'Montserrat Alternates', sans-serif;
+	font-size: 20px;
+	font-weight: 900;
+	color: #f7b926;
+}
+.btnclass{
+	background-color: #f7b926;
+	border-radius: 0.25rem;
+	font-family: 'Poppins', sans-serif;
+	font-weight: 450;
+}
+.forleft{
+	margin-left: -20px;
+}
