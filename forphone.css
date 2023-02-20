@@ -52,21 +52,9 @@ tr{
 }
 .abcd{
 	background-color: black;
-	height: 1045px;
   	background-position: center;
   	background-repeat: no-repeat;
   	background-size: cover;;
-}
-.forbg{
-/* 	background-color: black;
-	border-color: black; */
-}
-.myTable{
-/* 	background-color: black;
-	height: 745px;
-  	background-position: center;
-  	background-repeat: no-repeat;
-  	background-size: cover;; */
 }
 .headbookcar{
 	font-size: 35px;
